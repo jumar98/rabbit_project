@@ -1,0 +1,9 @@
+2019-06-26 09:28:04.688502 : This a info message
+2019-06-26 09:39:07.119114 : This a info message
+2019-06-26 09:55:44.936226 : This a info message
+2019-06-26 10:28:44.219485 : Mi mensaje
+2019-06-26 10:37:09.599178 : Mi mensaje
+2019-06-26 10:40:33.356981 : Mi mensaje
+2019-06-26 10:45:31.448063 : This is a error message
+2019-06-26 10:52:11.926561 : This a debug message
+2019-06-26 11:10:00.621346 : This a error message
